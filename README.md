@@ -13,7 +13,7 @@ We added *bridge_to_llm_consultant.py* to stark_main -> models and added it in s
 
 ### Insert OpenAI API Key
 
-Add a file ```.env ´´´ with your OpenAI api key ```OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXX ´´´ in the main directory.
+Add a file ```.env``` with your OpenAI api key ```OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXX``` in the main directory.
 
 ### Download data
 See https://github.com/snap-stanford/stark/tree/main for instructions how to download benchmarking data and candidate embeddings.
