@@ -1,0 +1,19 @@
+{
+  "llm_temperature": 0,
+  "llm_seed": 42,
+
+  "llm_model": "gpt-4o-2024-05-13",
+  "older_expensive_llm_model": "gpt-4-1106-preview",
+
+  "output_path": "output",
+  "stark_data_path": "stark_datasets",
+  "embeddings_path": "stark_main/emb",
+  "embedding_model": "text-embedding-ada-002",
+
+  "find_closest_nodes_cut_off": 0.95,
+
+  "max_num_path_to_unknowns": 150,
+  "max_printed_paths_to_one_target": 150,
+
+  "k_of_vss_top_k": 10
+}
