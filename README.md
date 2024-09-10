@@ -1,8 +1,4 @@
 # 4StepNarrower
-This Readme is currently under construction. Further notes will be added soon.
-
-
-
 ## Getting started
 ### Notes
 The code in this repository supplements our recent paper that is published at IJCLR 2024 and available on arXiv: https://arxiv.org/abs/2409.00861
