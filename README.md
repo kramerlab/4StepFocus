@@ -31,4 +31,4 @@ python -m stark_main.eval --dataset mag --model LLMConsultant --split test --out
 ```
 python -m main
 ```
-Configurations can to be set main function in main.py in this root directory.
+Configurations can to be set in main function in main.py in this root directory.
